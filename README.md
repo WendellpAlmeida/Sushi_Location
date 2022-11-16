@@ -1,5 +1,5 @@
 # Sushi_Location
-APP  sendofeito em java+ firebase e API de Localização, onde se faz o registro e ele mostra sua localização ( ainda não esta pronto ) 
+APP  sendofeito por mim em java+ firebase e API de Localização, onde se faz o registro e ele mostra sua localização ( ainda não esta pronto ) 
 
 
 #splash 
