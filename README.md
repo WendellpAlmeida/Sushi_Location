@@ -1,5 +1,5 @@
 # Sushi_Location
-APP  sendofeito por mim em java+ firebase e API de Localização, onde se faz o registro e ele mostra sua localização ( ainda não esta pronto ) 
+APP  sendofeito por mim em java+ firebase e API de Localização, onde se faz o registro e ele mostra sua localização ( ainda não esta pronto ) 📱
 
 
 #splash 
@@ -15,4 +15,4 @@ APP  sendofeito por mim em java+ firebase e API de Localização, onde se faz o 
 ![cadastrar- sushi ](https://user-images.githubusercontent.com/116360866/202261319-a83412f6-557d-4f36-b38a-6b75d2602025.png)
 
 
-APP  sendofeita em java+ firebase e API de Localização, onde se faz o registro e ele mostra sua localização ( ainda não esta pronto ) 
+
